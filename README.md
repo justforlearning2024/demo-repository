@@ -1,4 +1,5 @@
 # demo-repository
+
 This is my demo git repository.
 <br>
-Author - Partho Mondal
+Author - Partho (Student of XYZ)
